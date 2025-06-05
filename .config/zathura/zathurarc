@@ -1,0 +1,13 @@
+#catppuccin-frappe
+#catppuccin-latte
+#catppuccin-macchiato
+#catppuccin-mocha
+#zathura-gruvbox-dark
+#zathura-gruvbox-dark-hard
+#zathura-gruvbox-dark-soft
+#zathura-gruvbox-light
+#zathura-gruvbox-light-hard
+#zathura-gruvbox-light-soft
+
+
+include zathura-gruvbox-dark-hard

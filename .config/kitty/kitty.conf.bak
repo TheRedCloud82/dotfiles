@@ -1,0 +1,13 @@
+
+# Add fallback fonts that support emojis
+# For Linux, Noto Color Emoji is a good choice
+font_family   FiraCode Nerd Font
+fallback_fonts   Noto Color Emoji, Apple Color Emoji, Segoe UI Emoji
+font_size        12.0
+
+# BEGIN_KITTY_THEME
+# Catppuccin-Mocha
+include current-theme.conf
+# END_KITTY_THEME
+
+allow_remote_control yes
